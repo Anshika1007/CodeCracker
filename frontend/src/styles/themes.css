@@ -1,0 +1,54 @@
+/* src/styles/themes.css */
+
+:root {
+  --primary: #ffffff;
+  --secondary: #f8f9fa;
+  --accent: #007bff;
+  --text: #343a40;
+  --highlight: #28a745;
+}
+
+/* Dark Cyber Theme */
+[data-theme='night-parse'] {
+  --primary: #0A192F;
+  --secondary: #172A45;
+  --accent: #64FFDA;
+  --text: #CCD6F6;
+  --highlight: #1E90FF;
+}
+
+/* Clean Dev Light */
+[data-theme='byte-breeze'] {
+  --primary: #EAF6FF;
+  --secondary: #D6ECFA;
+  --accent: #00BFFF;
+  --text: #1B1F3B;
+  --highlight: #0077FF;
+}
+
+/* Neon Terminal */
+[data-theme='neon-terminal'] {
+  --primary: #1A1A1A;
+  --secondary: #1d1c1c;
+  --accent: #00FF7F;
+  --text: #E0E0E0;
+  --highlight: #FF6B6B;
+}
+
+/* Warm Code Camp */
+[data-theme='bubble-code'] {
+  --primary: #FFE4EC;
+  --secondary: #FFCAD4;
+  --accent: #FF6F91;
+  --text: #3C2A35;
+  --highlight: #FF9AA2;
+}
+
+/* Purple Syntax */
+[data-theme='violet-verse'] {
+  --primary: #282C34;
+  --secondary: #3B3E4A;
+  --accent: #C678DD;
+  --text: #ABB2BF;
+  --highlight: #E06C75;
+}

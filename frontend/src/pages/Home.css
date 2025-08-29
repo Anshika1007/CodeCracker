@@ -1,0 +1,70 @@
+.clock-container {
+    position: relative;
+    /* background: radial-gradient(circle, #1f2937 60%, #111827 100%); */
+    
+  }
+  
+  .hand {
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    background-color: #facc15;
+    transform-origin: bottom;
+    transform: rotate(0deg);
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .hand.hour {
+    height: 40px;
+    width: 5px;
+  }
+  
+  .hand.minute {
+    height: 60px;
+    width: 4px;
+    background-color: #a3e635;
+  }
+  
+  .hand.second {
+    height: 70px;
+    width: 2px;
+    background-color: #f87171;
+  }
+  
+  .clock-marker {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    height: 6px;
+    width: 2px;
+    background-color: white;
+    transform-origin: bottom center;
+  }
+  
+  .go-dashboard-btn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.5rem;
+    /* background: linear-gradient(to right, #8b5cf6, #ec4899); */
+    /* color: black; */
+    font-weight: 600;
+    text-align: center;
+    /* box-shadow: 0 0 5px #ec4899, 0 0 10px #8b5cf6; */
+    transition: all 0.3s ease-in-out;
+    /* animation: pulse-glow 2s infinite; */
+  }
+  
+  
+  
+  /* @keyframes pulse-glow {
+    0% {
+      box-shadow: 0 0 10px #ec4899, 0 0 20px #8b5cf6;
+    }
+    50% {
+      box-shadow: 0 0 20px #ec4899, 0 0 35px #8b5cf6;
+    }
+    100% {
+      box-shadow: 0 0 10px #ec4899, 0 0 20px #8b5cf6;
+    }
+  } */
+  

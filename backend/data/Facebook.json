@@ -1,0 +1,1857 @@
+[
+    {
+        "problem_link": "https://leetcode.com/problems/count-hills-and-valleys-in-an-array/",
+        "problem_name": "Count Hills and Valleys in an Array",
+        "num_occur": 1
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/k-radius-subarray-averages/",
+        "problem_name": "K Radius Subarray Averages",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+        "problem_name": "Find Target Indices After Sorting Array",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/process-restricted-friend-requests/",
+        "problem_name": "Process Restricted Friend Requests",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/",
+        "problem_name": "Minimum Operations to Make a Uni-Value Grid",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/",
+        "problem_name": "Number of Pairs of Strings With Concatenation Equal to Target",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/find-the-middle-index-in-array/",
+        "problem_name": "Find the Middle Index in Array",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/",
+        "problem_name": "Find the Kth Largest Integer in the Array",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/",
+        "problem_name": "Remove One Element to Make the Array Strictly Increasing",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/cutting-ribbons/",
+        "problem_name": "Cutting Ribbons",
+        "num_occur": 31
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/check-if-the-sentence-is-pangram/",
+        "problem_name": "Check if the Sentence Is Pangram",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/faulty-sensor/",
+        "problem_name": "Faulty Sensor",
+        "num_occur": 1
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/",
+        "problem_name": "Check if One String Swap Can Make Strings Equal",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/count-items-matching-a-rule/",
+        "problem_name": "Count Items Matching a Rule",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/sum-of-unique-elements/",
+        "problem_name": "Sum of Unique Elements",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/swapping-nodes-in-a-linked-list/",
+        "problem_name": "Swapping Nodes in a Linked List",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/",
+        "problem_name": "Construct the Lexicographically Largest Valid Sequence",
+        "num_occur": 1
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/",
+        "problem_name": "Check If Two String Arrays are Equivalent",
+        "num_occur": 1
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/",
+        "problem_name": "Lowest Common Ancestor of a Binary Tree III",
+        "num_occur": 156
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/",
+        "problem_name": "Lowest Common Ancestor of a Binary Tree II",
+        "num_occur": 8
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/check-array-formation-through-concatenation/",
+        "problem_name": "Check Array Formation Through Concatenation",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+        "problem_name": "Maximum Nesting Depth of the Parentheses",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors/",
+        "problem_name": "Dot Product of Two Sparse Vectors",
+        "num_occur": 121
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/",
+        "problem_name": "Minimum Insertions to Balance a Parentheses String",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/kth-missing-positive-number/",
+        "problem_name": "Kth Missing Positive Number",
+        "num_occur": 28
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/clone-binary-tree-with-random-pointer/",
+        "problem_name": "Clone Binary Tree With Random Pointer",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/",
+        "problem_name": "Maximum Product of Two Elements in an Array",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/",
+        "problem_name": "Make Two Arrays Equal by Reversing Sub-arrays",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/first-unique-number/",
+        "problem_name": "First Unique Number",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/leftmost-column-with-at-least-a-one/",
+        "problem_name": "Leftmost Column with at Least a One",
+        "num_occur": 10
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/count-number-of-teams/",
+        "problem_name": "Count Number of Teams",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/balance-a-binary-search-tree/",
+        "problem_name": "Balance a Binary Search Tree",
+        "num_occur": 11
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/validate-binary-tree-nodes/",
+        "problem_name": "Validate Binary Tree Nodes",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/apply-discount-every-n-orders/",
+        "problem_name": "Apply Discount Every n Orders",
+        "num_occur": 1
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/",
+        "problem_name": "Count Negative Numbers in a Sorted Matrix",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/angle-between-hands-of-a-clock/",
+        "problem_name": "Angle Between Hands of a Clock",
+        "num_occur": 11
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/rank-transform-of-an-array/",
+        "problem_name": "Rank Transform of an Array",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/all-elements-in-two-binary-search-trees/",
+        "problem_name": "All Elements in Two Binary Search Trees",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/",
+        "problem_name": "Replace Elements with Greatest Element on Right Side",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/",
+        "problem_name": "Element Appearing More Than 25% In Sorted Array",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/",
+        "problem_name": "Find Winner on a Tic Tac Toe Game",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/search-suggestions-system/",
+        "problem_name": "Search Suggestions System",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
+        "problem_name": "Minimum Remove to Make Valid Parentheses",
+        "num_occur": 282
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/intersection-of-three-sorted-arrays/",
+        "problem_name": "Intersection of Three Sorted Arrays",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/",
+        "problem_name": "Remove All Adjacent Duplicates in String II",
+        "num_occur": 7
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/unique-number-of-occurrences/",
+        "problem_name": "Unique Number of Occurrences",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/",
+        "problem_name": "Maximum Level Sum of a Binary Tree",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/",
+        "problem_name": "Check If a Number Is Majority Element in a Sorted Array",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/delete-nodes-and-return-forest/",
+        "problem_name": "Delete Nodes And Return Forest",
+        "num_occur": 7
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/two-sum-less-than-k/",
+        "problem_name": "Two Sum Less Than K",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/car-pooling/",
+        "problem_name": "Car Pooling",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+        "problem_name": "Shortest Path in Binary Matrix",
+        "num_occur": 76
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/",
+        "problem_name": "Remove All Adjacent Duplicates In String",
+        "num_occur": 40
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/",
+        "problem_name": "Binary Search Tree to Greater Sum Tree",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/moving-stones-until-consecutive/",
+        "problem_name": "Moving Stones Until Consecutive",
+        "num_occur": 1
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/two-city-scheduling/",
+        "problem_name": "Two City Scheduling",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/",
+        "problem_name": "Maximum Difference Between Node and Ancestor",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+        "problem_name": "Construct Binary Search Tree from Preorder Traversal",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+        "problem_name": "Max Consecutive Ones III",
+        "num_occur": 26
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/cousins-in-binary-tree/",
+        "problem_name": "Cousins in Binary Tree",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/add-to-array-form-of-integer/",
+        "problem_name": "Add to Array-Form of Integer",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+        "problem_name": "Vertical Order Traversal of a Binary Tree",
+        "num_occur": 82
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/unique-paths-iii/",
+        "problem_name": "Unique Paths III",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+        "problem_name": "Squares of a Sorted Array",
+        "num_occur": 29
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/subarray-sums-divisible-by-k/",
+        "problem_name": "Subarray Sums Divisible by K",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/k-closest-points-to-origin/",
+        "problem_name": "K Closest Points to Origin",
+        "num_occur": 127
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/check-completeness-of-a-binary-tree/",
+        "problem_name": "Check Completeness of a Binary Tree",
+        "num_occur": 11
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/verifying-an-alien-dictionary/",
+        "problem_name": "Verifying an Alien Dictionary",
+        "num_occur": 21
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/range-sum-of-bst/",
+        "problem_name": "Range Sum of BST",
+        "num_occur": 149
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/knight-dialer/",
+        "problem_name": "Knight Dialer",
+        "num_occur": 6
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+        "problem_name": "Minimum Add to Make Parentheses Valid",
+        "num_occur": 100
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/increasing-order-search-tree/",
+        "problem_name": "Increasing Order Search Tree",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/monotonic-array/",
+        "problem_name": "Monotonic Array",
+        "num_occur": 12
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/maximum-frequency-stack/",
+        "problem_name": "Maximum Frequency Stack",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/groups-of-special-equivalent-strings/",
+        "problem_name": "Groups of Special-Equivalent Strings",
+        "num_occur": 1
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/uncommon-words-from-two-sentences/",
+        "problem_name": "Uncommon Words from Two Sentences",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/middle-of-the-linked-list/",
+        "problem_name": "Middle of the Linked List",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/advantage-shuffle/",
+        "problem_name": "Advantage Shuffle",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/buddy-strings/",
+        "problem_name": "Buddy Strings",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/score-of-parentheses/",
+        "problem_name": "Score of Parentheses",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/rectangle-overlap/",
+        "problem_name": "Rectangle Overlap",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/goat-latin/",
+        "problem_name": "Goat Latin",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/binary-tree-pruning/",
+        "problem_name": "Binary Tree Pruning",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/expressive-words/",
+        "problem_name": "Expressive Words",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/custom-sort-string/",
+        "problem_name": "Custom Sort String",
+        "num_occur": 67
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/rotated-digits/",
+        "problem_name": "Rotated Digits",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/reorganize-string/",
+        "problem_name": "Reorganize String",
+        "num_occur": 9
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/toeplitz-matrix/",
+        "problem_name": "Toeplitz Matrix",
+        "num_occur": 30
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/number-of-corner-rectangles/",
+        "problem_name": "Number Of Corner Rectangles",
+        "num_occur": 1
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/closest-leaf-in-a-binary-tree/",
+        "problem_name": "Closest Leaf in a Binary Tree",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/daily-temperatures/",
+        "problem_name": "Daily Temperatures",
+        "num_occur": 17
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/asteroid-collision/",
+        "problem_name": "Asteroid Collision",
+        "num_occur": 10
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/sentence-similarity/",
+        "problem_name": "Sentence Similarity",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/find-pivot-index/",
+        "problem_name": "Find Pivot Index",
+        "num_occur": 14
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/candy-crush/",
+        "problem_name": "Candy Crush",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/accounts-merge/",
+        "problem_name": "Accounts Merge",
+        "num_occur": 34
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/find-k-th-smallest-pair-distance/",
+        "problem_name": "Find K-th Smallest Pair Distance",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/max-stack/",
+        "problem_name": "Max Stack",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/",
+        "problem_name": "Best Time to Buy and Sell Stock with Transaction Fee",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/subarray-product-less-than-k/",
+        "problem_name": "Subarray Product Less Than K",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/binary-search/",
+        "problem_name": "Binary Search",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+        "problem_name": "Kth Largest Element in a Stream",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/max-area-of-island/",
+        "problem_name": "Max Area of Island",
+        "num_occur": 18
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/top-k-frequent-words/",
+        "problem_name": "Top K Frequent Words",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/stickers-to-spell-word/",
+        "problem_name": "Stickers to Spell Word",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/",
+        "problem_name": "Maximum Sum of 3 Non-Overlapping Subarrays",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/valid-palindrome-ii/",
+        "problem_name": "Valid Palindrome II",
+        "num_occur": 252
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/valid-parenthesis-string/",
+        "problem_name": "Valid Parenthesis String",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/implement-magic-dictionary/",
+        "problem_name": "Implement Magic Dictionary",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/longest-continuous-increasing-subsequence/",
+        "problem_name": "Longest Continuous Increasing Subsequence",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/maximum-swap/",
+        "problem_name": "Maximum Swap",
+        "num_occur": 36
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/trim-a-binary-search-tree/",
+        "problem_name": "Trim a Binary Search Tree",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/path-sum-iv/",
+        "problem_name": "Path Sum IV",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+        "problem_name": "Maximum Width of Binary Tree",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/find-k-closest-elements/",
+        "problem_name": "Find K Closest Elements",
+        "num_occur": 21
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/replace-words/",
+        "problem_name": "Replace Words",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/palindromic-substrings/",
+        "problem_name": "Palindromic Substrings",
+        "num_occur": 24
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/maximum-average-subarray-i/",
+        "problem_name": "Maximum Average Subarray I",
+        "num_occur": 7
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/shopping-offers/",
+        "problem_name": "Shopping Offers",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/average-of-levels-in-binary-tree/",
+        "problem_name": "Average of Levels in Binary Tree",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/exclusive-time-of-functions/",
+        "problem_name": "Exclusive Time of Functions",
+        "num_occur": 33
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/design-circular-queue/",
+        "problem_name": "Design Circular Queue",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/task-scheduler/",
+        "problem_name": "Task Scheduler",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/merge-two-binary-trees/",
+        "problem_name": "Merge Two Binary Trees",
+        "num_occur": 6
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/add-bold-tag-in-string/",
+        "problem_name": "Add Bold Tag in String",
+        "num_occur": 13
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/construct-string-from-binary-tree/",
+        "problem_name": "Construct String from Binary Tree",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/can-place-flowers/",
+        "problem_name": "Can Place Flowers",
+        "num_occur": 13
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/subtree-of-another-tree/",
+        "problem_name": "Subtree of Another Tree",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/reshape-the-matrix/",
+        "problem_name": "Reshape the Matrix",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/subarray-sum-equals-k/",
+        "problem_name": "Subarray Sum Equals K",
+        "num_occur": 141
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/reverse-words-in-a-string-iii/",
+        "problem_name": "Reverse Words in a String III",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/split-array-with-equal-sum/",
+        "problem_name": "Split Array with Equal Sum",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/boundary-of-binary-tree/",
+        "problem_name": "Boundary of Binary Tree",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/diameter-of-binary-tree/",
+        "problem_name": "Diameter of Binary Tree",
+        "num_occur": 89
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/01-matrix/",
+        "problem_name": "01 Matrix",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+        "problem_name": "Single Element in a Sorted Array",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/convert-bst-to-greater-tree/",
+        "problem_name": "Convert BST to Greater Tree",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/construct-binary-tree-from-string/",
+        "problem_name": "Construct Binary Tree from String",
+        "num_occur": 7
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/minesweeper/",
+        "problem_name": "Minesweeper",
+        "num_occur": 6
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/random-pick-with-weight/",
+        "problem_name": "Random Pick with Weight",
+        "num_occur": 140
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/contiguous-array/",
+        "problem_name": "Contiguous Array",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/continuous-subarray-sum/",
+        "problem_name": "Continuous Subarray Sum",
+        "num_occur": 56
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/find-largest-value-in-each-tree-row/",
+        "problem_name": "Find Largest Value in Each Tree Row",
+        "num_occur": 18
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/fibonacci-number/",
+        "problem_name": "Fibonacci Number",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/diagonal-traverse/",
+        "problem_name": "Diagonal Traverse",
+        "num_occur": 48
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/target-sum/",
+        "problem_name": "Target Sum",
+        "num_occur": 10
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/the-maze/",
+        "problem_name": "The Maze",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/sliding-window-median/",
+        "problem_name": "Sliding Window Median",
+        "num_occur": 9
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/island-perimeter/",
+        "problem_name": "Island Perimeter",
+        "num_occur": 10
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/repeated-substring-pattern/",
+        "problem_name": "Repeated Substring Pattern",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/4sum-ii/",
+        "problem_name": "4Sum II",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/",
+        "problem_name": "Minimum Number of Arrows to Burst Balloons",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/sort-characters-by-frequency/",
+        "problem_name": "Sort Characters By Frequency",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+        "problem_name": "Find All Numbers Disappeared in an Array",
+        "num_occur": 7
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/string-compression/",
+        "problem_name": "String Compression",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+        "problem_name": "Find All Anagrams in a String",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/path-sum-iii/",
+        "problem_name": "Path Sum III",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/non-overlapping-intervals/",
+        "problem_name": "Non-overlapping Intervals",
+        "num_occur": 7
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/battleships-in-a-board/",
+        "problem_name": "Battleships in a Board",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/partition-equal-subset-sum/",
+        "problem_name": "Partition Equal Subset Sum",
+        "num_occur": 11
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/add-strings/",
+        "problem_name": "Add Strings",
+        "num_occur": 54
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/fizz-buzz/",
+        "problem_name": "Fizz Buzz",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/split-array-largest-sum/",
+        "problem_name": "Split Array Largest Sum",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/valid-word-abbreviation/",
+        "problem_name": "Valid Word Abbreviation",
+        "num_occur": 114
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/queue-reconstruction-by-height/",
+        "problem_name": "Queue Reconstruction by Height",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/remove-k-digits/",
+        "problem_name": "Remove K Digits",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/evaluate-division/",
+        "problem_name": "Evaluate Division",
+        "num_occur": 8
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/random-pick-index/",
+        "problem_name": "Random Pick Index",
+        "num_occur": 21
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/decode-string/",
+        "problem_name": "Decode String",
+        "num_occur": 11
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/utf-8-validation/",
+        "problem_name": "UTF-8 Validation",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+        "problem_name": "First Unique Character in a String",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/",
+        "problem_name": "Insert Delete GetRandom O(1) - Duplicates allowed",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/insert-delete-getrandom-o1/",
+        "problem_name": "Insert Delete GetRandom O(1)",
+        "num_occur": 23
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+        "problem_name": "Kth Smallest Element in a Sorted Matrix",
+        "num_occur": 18
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/combination-sum-iv/",
+        "problem_name": "Combination Sum IV",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/sum-of-two-integers/",
+        "problem_name": "Sum of Two Integers",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/find-leaves-of-binary-tree/",
+        "problem_name": "Find Leaves of Binary Tree",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
+        "problem_name": "Intersection of Two Arrays II",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/intersection-of-two-arrays/",
+        "problem_name": "Intersection of Two Arrays",
+        "num_occur": 6
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/design-tic-tac-toe/",
+        "problem_name": "Design Tic-Tac-Toe",
+        "num_occur": 15
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/top-k-frequent-elements/",
+        "problem_name": "Top K Frequent Elements",
+        "num_occur": 97
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/moving-average-from-data-stream/",
+        "problem_name": "Moving Average from Data Stream",
+        "num_occur": 43
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/reverse-string/",
+        "problem_name": "Reverse String",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/integer-break/",
+        "problem_name": "Integer Break",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/flatten-nested-list-iterator/",
+        "problem_name": "Flatten Nested List Iterator",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/nested-list-weight-sum/",
+        "problem_name": "Nested List Weight Sum",
+        "num_occur": 100
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/palindrome-pairs/",
+        "problem_name": "Palindrome Pairs",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/increasing-triplet-subsequence/",
+        "problem_name": "Increasing Triplet Subsequence",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/largest-bst-subtree/",
+        "problem_name": "Largest BST Subtree",
+        "num_occur": 7
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/reconstruct-itinerary/",
+        "problem_name": "Reconstruct Itinerary",
+        "num_occur": 6
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/odd-even-linked-list/",
+        "problem_name": "Odd Even Linked List",
+        "num_occur": 6
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/",
+        "problem_name": "Maximum Size Subarray Sum Equals k",
+        "num_occur": 11
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
+        "problem_name": "Number of Connected Components in an Undirected Graph",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/coin-change/",
+        "problem_name": "Coin Change",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/shortest-distance-from-all-buildings/",
+        "problem_name": "Shortest Distance from All Buildings",
+        "num_occur": 22
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/remove-duplicate-letters/",
+        "problem_name": "Remove Duplicate Letters",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/binary-tree-vertical-order-traversal/",
+        "problem_name": "Binary Tree Vertical Order Traversal",
+        "num_occur": 188
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/sparse-matrix-multiplication/",
+        "problem_name": "Sparse Matrix Multiplication",
+        "num_occur": 10
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/range-sum-query-2d-immutable/",
+        "problem_name": "Range Sum Query 2D - Immutable",
+        "num_occur": 10
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/range-sum-query-immutable/",
+        "problem_name": "Range Sum Query - Immutable",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/remove-invalid-parentheses/",
+        "problem_name": "Remove Invalid Parentheses",
+        "num_occur": 36
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/bulls-and-cows/",
+        "problem_name": "Bulls and Cows",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/",
+        "problem_name": "Binary Tree Longest Consecutive Sequence",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/best-meeting-point/",
+        "problem_name": "Best Meeting Point",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/unique-word-abbreviation/",
+        "problem_name": "Unique Word Abbreviation",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/find-the-duplicate-number/",
+        "problem_name": "Find the Duplicate Number",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/walls-and-gates/",
+        "problem_name": "Walls and Gates",
+        "num_occur": 15
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/inorder-successor-in-bst/",
+        "problem_name": "Inorder Successor In BST",
+        "num_occur": 6
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/move-zeroes/",
+        "problem_name": "Move Zeroes",
+        "num_occur": 19
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/expression-add-operators/",
+        "problem_name": "Expression Add Operators",
+        "num_occur": 23
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/first-bad-version/",
+        "problem_name": "First Bad Version",
+        "num_occur": 7
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/find-the-celebrity/",
+        "problem_name": "Find the Celebrity",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/h-index/",
+        "problem_name": "H-Index",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/integer-to-english-words/",
+        "problem_name": "Integer to English Words",
+        "num_occur": 20
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/encode-and-decode-strings/",
+        "problem_name": "Encode and Decode Strings",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/closest-binary-search-tree-value/",
+        "problem_name": "Closest Binary Search Tree Value",
+        "num_occur": 21
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/alien-dictionary/",
+        "problem_name": "Alien Dictionary",
+        "num_occur": 16
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/missing-number/",
+        "problem_name": "Missing Number",
+        "num_occur": 6
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/palindrome-permutation/",
+        "problem_name": "Palindrome Permutation",
+        "num_occur": 12
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/paint-house-ii/",
+        "problem_name": "Paint House II",
+        "num_occur": 1
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/ugly-number/",
+        "problem_name": "Ugly Number",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/binary-tree-paths/",
+        "problem_name": "Binary Tree Paths",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/meeting-rooms-ii/",
+        "problem_name": "Meeting Rooms II",
+        "num_occur": 33
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/group-shifted-strings/",
+        "problem_name": "Group Shifted Strings",
+        "num_occur": 47
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/strobogrammatic-number-ii/",
+        "problem_name": "Strobogrammatic Number II",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/strobogrammatic-number/",
+        "problem_name": "Strobogrammatic Number",
+        "num_occur": 19
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/shortest-word-distance/",
+        "problem_name": "Shortest Word Distance",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/valid-anagram/",
+        "problem_name": "Valid Anagram",
+        "num_occur": 8
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+        "problem_name": "Search a 2D Matrix II",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/sliding-window-maximum/",
+        "problem_name": "Sliding Window Maximum",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/product-of-array-except-self/",
+        "problem_name": "Product of Array Except Self",
+        "num_occur": 18
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+        "problem_name": "Lowest Common Ancestor of a Binary Tree",
+        "num_occur": 180
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+        "problem_name": "Lowest Common Ancestor of a Binary Search Tree",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/palindrome-linked-list/",
+        "problem_name": "Palindrome Linked List",
+        "num_occur": 16
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+        "problem_name": "Kth Smallest Element in a BST",
+        "num_occur": 6
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/basic-calculator-ii/",
+        "problem_name": "Basic Calculator II",
+        "num_occur": 118
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/invert-binary-tree/",
+        "problem_name": "Invert Binary Tree",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/basic-calculator/",
+        "problem_name": "Basic Calculator",
+        "num_occur": 10
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/contains-duplicate-ii/",
+        "problem_name": "Contains Duplicate II",
+        "num_occur": 15
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "problem_name": "Kth Largest Element in an Array",
+        "num_occur": 140
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/word-search-ii/",
+        "problem_name": "Word Search II",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/add-and-search-word-data-structure-design/",
+        "problem_name": "Add and Search Word - Data structure design",
+        "num_occur": 7
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/course-schedule-ii/",
+        "problem_name": "Course Schedule II",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+        "problem_name": "Minimum Size Subarray Sum",
+        "num_occur": 8
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+        "problem_name": "Implement Trie",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/course-schedule/",
+        "problem_name": "Course Schedule",
+        "num_occur": 9
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/reverse-linked-list/",
+        "problem_name": "Reverse Linked List",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/remove-linked-list-elements/",
+        "problem_name": "Remove Linked List Elements",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/number-of-islands/",
+        "problem_name": "Number of Islands",
+        "num_occur": 34
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/binary-tree-right-side-view/",
+        "problem_name": "Binary Tree Right Side View",
+        "num_occur": 108
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/house-robber/",
+        "problem_name": "House Robber",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/number-of-1-bits/",
+        "problem_name": "Number of 1 Bits",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/reverse-bits/",
+        "problem_name": "Reverse Bits",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/rotate-array/",
+        "problem_name": "Rotate Array",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/largest-number/",
+        "problem_name": "Largest Number",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/binary-search-tree-iterator/",
+        "problem_name": "Binary Search Tree Iterator",
+        "num_occur": 50
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/majority-element/",
+        "problem_name": "Majority Element",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/fraction-to-recurring-decimal/",
+        "problem_name": "Fraction to Recurring Decimal",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/maximum-gap/",
+        "problem_name": "Maximum Gap",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/missing-ranges/",
+        "problem_name": "Missing Ranges",
+        "num_occur": 8
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/find-peak-element/",
+        "problem_name": "Find Peak Element",
+        "num_occur": 82
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/one-edit-distance/",
+        "problem_name": "One Edit Distance",
+        "num_occur": 7
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+        "problem_name": "Intersection of Two Linked Lists",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/",
+        "problem_name": "Read N Characters Given Read4 II - Call multiple times",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/read-n-characters-given-read4/",
+        "problem_name": "Read N Characters Given Read4",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/min-stack/",
+        "problem_name": "Min Stack",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+        "problem_name": "Find Minimum in Rotated Sorted Array",
+        "num_occur": 8
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+        "problem_name": "Evaluate Reverse Polish Notation",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/sort-list/",
+        "problem_name": "Sort List",
+        "num_occur": 6
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/lru-cache/",
+        "problem_name": "LRU Cache",
+        "num_occur": 60
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+        "problem_name": "Binary Tree Postorder Traversal",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/reorder-list/",
+        "problem_name": "Reorder List",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/word-break-ii/",
+        "problem_name": "Word Break II",
+        "num_occur": 22
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/word-break/",
+        "problem_name": "Word Break",
+        "num_occur": 33
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+        "problem_name": "Copy List with Random Pointer",
+        "num_occur": 64
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/single-number/",
+        "problem_name": "Single Number",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/clone-graph/",
+        "problem_name": "Clone Graph",
+        "num_occur": 38
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/palindrome-partitioning/",
+        "problem_name": "Palindrome Partitioning",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/sum-root-to-leaf-numbers/",
+        "problem_name": "Sum Root to Leaf Numbers",
+        "num_occur": 31
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/word-ladder/",
+        "problem_name": "Word Ladder",
+        "num_occur": 13
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/word-ladder-ii/",
+        "problem_name": "Word Ladder II",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/valid-palindrome/",
+        "problem_name": "Valid Palindrome",
+        "num_occur": 94
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+        "problem_name": "Binary Tree Maximum Path Sum",
+        "num_occur": 16
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+        "problem_name": "Best Time to Buy and Sell Stock II",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+        "problem_name": "Best Time to Buy and Sell Stock",
+        "num_occur": 16
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+        "problem_name": "Flatten Binary Tree to Linked List",
+        "num_occur": 10
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/path-sum-ii/",
+        "problem_name": "Path Sum II",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/path-sum/",
+        "problem_name": "Path Sum",
+        "num_occur": 8
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+        "problem_name": "Minimum Depth of Binary Tree",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/balanced-binary-tree/",
+        "problem_name": "Balanced Binary Tree",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/",
+        "problem_name": "Convert Sorted List to Binary Search Tree",
+        "num_occur": 11
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+        "problem_name": "Convert Sorted Array to Binary Search Tree",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+        "problem_name": "Maximum Depth of Binary Tree",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+        "problem_name": "Binary Tree Zigzag Level Order Traversal",
+        "num_occur": 18
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+        "problem_name": "Binary Tree Level Order Traversal",
+        "num_occur": 6
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/symmetric-tree/",
+        "problem_name": "Symmetric Tree",
+        "num_occur": 12
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/same-tree/",
+        "problem_name": "Same Tree",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/validate-binary-search-tree/",
+        "problem_name": "Validate Binary Search Tree",
+        "num_occur": 8
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/restore-ip-addresses/",
+        "problem_name": "Restore IP Addresses",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/reverse-linked-list-ii/",
+        "problem_name": "Reverse Linked List II",
+        "num_occur": 7
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/decode-ways/",
+        "problem_name": "Decode Ways",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/subsets-ii/",
+        "problem_name": "Subsets II",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/merge-sorted-array/",
+        "problem_name": "Merge Sorted Array",
+        "num_occur": 89
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+        "problem_name": "Largest Rectangle in Histogram",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+        "problem_name": "Remove Duplicates from Sorted List",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+        "problem_name": "Remove Duplicates from Sorted List II",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+        "problem_name": "Search in Rotated Sorted Array II",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/word-search/",
+        "problem_name": "Word Search",
+        "num_occur": 12
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/subsets/",
+        "problem_name": "Subsets",
+        "num_occur": 38
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/combinations/",
+        "problem_name": "Combinations",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/minimum-window-substring/",
+        "problem_name": "Minimum Window Substring",
+        "num_occur": 20
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/sort-colors/",
+        "problem_name": "Sort Colors",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/search-a-2d-matrix/",
+        "problem_name": "Search a 2D Matrix",
+        "num_occur": 14
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/set-matrix-zeroes/",
+        "problem_name": "Set Matrix Zeroes",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/edit-distance/",
+        "problem_name": "Edit Distance",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/simplify-path/",
+        "problem_name": "Simplify Path",
+        "num_occur": 112
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/text-justification/",
+        "problem_name": "Text Justification",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/add-binary/",
+        "problem_name": "Add Binary",
+        "num_occur": 10
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/plus-one/",
+        "problem_name": "Plus One",
+        "num_occur": 11
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/valid-number/",
+        "problem_name": "Valid Number",
+        "num_occur": 53
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/unique-paths-ii/",
+        "problem_name": "Unique Paths II",
+        "num_occur": 8
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/unique-paths/",
+        "problem_name": "Unique Paths",
+        "num_occur": 11
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/permutation-sequence/",
+        "problem_name": "Permutation Sequence",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/insert-interval/",
+        "problem_name": "Insert Intervals",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/merge-intervals/",
+        "problem_name": "Merge Intervals",
+        "num_occur": 110
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/jump-game/",
+        "problem_name": "Jump Game",
+        "num_occur": 8
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/spiral-matrix/",
+        "problem_name": "Spiral Matrix",
+        "num_occur": 10
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/maximum-subarray/",
+        "problem_name": "Maximum Subarray",
+        "num_occur": 11
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/n-queens/",
+        "problem_name": "N-Queens",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/powx-n/",
+        "problem_name": "Pow(x, n)",
+        "num_occur": 162
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/group-anagrams/",
+        "problem_name": "Group Anagrams",
+        "num_occur": 17
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/rotate-image/",
+        "problem_name": "Rotate Image",
+        "num_occur": 12
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/permutations/",
+        "problem_name": "Permutations",
+        "num_occur": 7
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/wildcard-matching/",
+        "problem_name": "Wildcard Matching",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/multiply-strings/",
+        "problem_name": "Multiply Strings",
+        "num_occur": 14
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/trapping-rain-water/",
+        "problem_name": "Trapping Rain Water",
+        "num_occur": 34
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/first-missing-positive/",
+        "problem_name": "First Missing Positive",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/combination-sum-ii/",
+        "problem_name": "Combination Sum II",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/combination-sum/",
+        "problem_name": "Combination Sum",
+        "num_occur": 12
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/count-and-say/",
+        "problem_name": "Count and Say",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/sudoku-solver/",
+        "problem_name": "Sudoku Solver",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/valid-sudoku/",
+        "problem_name": "Valid Sudoku",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/search-insert-position/",
+        "problem_name": "Search Insert Position",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+        "problem_name": "Search in Rotated Sorted Array",
+        "num_occur": 30
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/longest-valid-parentheses/",
+        "problem_name": "Longest Valid Parentheses",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/divide-two-integers/",
+        "problem_name": "Divide Two Integers",
+        "num_occur": 11
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/implement-strstr/",
+        "problem_name": "Implement strStr()",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+        "problem_name": "Remove Duplicates from Sorted Array",
+        "num_occur": 16
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+        "problem_name": "Reverse Nodes in k-Group",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+        "problem_name": "Swap Nodes in Pairs",
+        "num_occur": 9
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/merge-k-sorted-lists/",
+        "problem_name": "Merge k Sorted Lists",
+        "num_occur": 59
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/generate-parentheses/",
+        "problem_name": "Generate Parentheses",
+        "num_occur": 16
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/merge-two-sorted-lists/",
+        "problem_name": "Merge Two Sorted Lists",
+        "num_occur": 13
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/valid-parentheses/",
+        "problem_name": "Valid Parentheses",
+        "num_occur": 24
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+        "problem_name": "Remove Nth Node From End of List",
+        "num_occur": 23
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/4sum/",
+        "problem_name": "4 Sum",
+        "num_occur": 5
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+        "problem_name": "Letter Combinations of a Phone Number",
+        "num_occur": 14
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/3sum-closest/",
+        "problem_name": "3Sum Closest",
+        "num_occur": 25
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/3sum/",
+        "problem_name": "3Sum",
+        "num_occur": 28
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/longest-common-prefix/",
+        "problem_name": "Longest Common Prefix",
+        "num_occur": 26
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/roman-to-integer",
+        "problem_name": "Roman to Integer",
+        "num_occur": 8
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/container-with-most-water/",
+        "problem_name": "Container With Most Water",
+        "num_occur": 8
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/regular-expression-matching/",
+        "problem_name": "Regular Expression Matching",
+        "num_occur": 19
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/palindrome-number/",
+        "problem_name": "Palindrome Number",
+        "num_occur": 8
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/string-to-integer-atoi/",
+        "problem_name": "String to Integer (atoi)",
+        "num_occur": 32
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/reverse-integer/",
+        "problem_name": "Reverse Integer",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/longest-palindromic-substring/",
+        "problem_name": "Longest Palindromic Substring",
+        "num_occur": 7
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+        "problem_name": "Median of Two Sorted Arrays",
+        "num_occur": 7
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+        "problem_name": "Longest Substring Without Repeating Characters",
+        "num_occur": 23
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/add-two-numbers/",
+        "problem_name": "Add Two Numbers",
+        "num_occur": 19
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/two-sum/",
+        "problem_name": "Two Sum",
+        "num_occur": 21
+    }
+]

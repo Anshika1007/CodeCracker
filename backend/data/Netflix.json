@@ -1,0 +1,27 @@
+[
+    {
+        "problem_link": "https://leetcode.com/problems/rotating-the-box/",
+        "problem_name": "Rotating the Box",
+        "num_occur": 4
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/logger-rate-limiter/",
+        "problem_name": "Logger Rate Limiter",
+        "num_occur": 3
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/reconstruct-itinerary/",
+        "problem_name": "Reconstruct Itinerary",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+        "problem_name": "Best Time to Buy and Sell Stock",
+        "num_occur": 2
+    },
+    {
+        "problem_link": "https://leetcode.com/problems/valid-parentheses/",
+        "problem_name": "Valid Parentheses",
+        "num_occur": 2
+    }
+]
